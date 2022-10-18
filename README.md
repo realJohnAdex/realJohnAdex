@@ -22,6 +22,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realJohnAdex&" alt="realJohnAdex" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=realJohnAdex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
 <!---
 realJohnAdex/realJohnAdex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -2,8 +2,8 @@
 <table>
   <tr>
     <td valign="center">
-      <a href="#">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+      <a href="https://linktr.ee/realjohnadex">
+        <img src="https://img.shields.io/badge/my_Linktree-00008b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Linktree"/></a>
       <p>
         <h3>Salut 👋🏾</h3>
         😜 &nbsp;I want to make the world better with code

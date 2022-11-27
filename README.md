@@ -16,7 +16,7 @@
         <br/>
         <br />
         <h3>Show your Support🤝🏽</h3>
-        <a href="#"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <a href="#"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me" /> <a/>
         <br/>
         <br />
         <h3>Connect on Twitter</h3>

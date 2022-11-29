@@ -1,9 +1,12 @@
-<div align="center"> <h1 align="center"> Introducing John <em>Adex</em> </h1> </div>
+<div align="center"> <h1 align="center"> Introducing John <em>Adex</em> </h1> 
+	<img id="preview" src="https://komarev.com/ghpvc/?username=realjohnadex&color=grey"> 
+</div>
 <table>
   <tr>
     <td valign="center">
       <a href="https://linktr.ee/realjohnadex">
-        <img src="https://img.shields.io/badge/my_Linktree-00008b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Linktree"/></a>
+        <img src="https://img.shields.io/badge/my_Linktree-00008b?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Linktree"/>
+	    </a>
       <p>
         <h3>Salut 👋🏾</h3>
         😜 &nbsp;I want to make the world better with code
@@ -15,18 +18,14 @@
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
+	    <h3>Show your Support🤝🏽</h3>
+        <a href="#"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me" /> <a/>
+	</a>
       </p>
   </td>
   <td>
     <p>
-        <h3>Connect on Twitter</h3>
-        <a href="https://twitter.com/realjohnadex">
-          <img src="https://img.shields.io/twitter/follow/realjohnadex?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
-         <br/>
-         <br />
-         <img id="preview" src="https://komarev.com/ghpvc/?username=realjohnadex&color=grey">
-        <h3>Show your Support🤝🏽</h3>
-        <a href="#"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me" /> <a/>
+      <a href="https://github.com/realjohnadex"><img alt="Adex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realjohnadex&langs_count=8&count_private=true&theme=transparent&hide_border=true&bg_color=1d2a3a"/></a>
         <br/>
        </p>
     </td>
@@ -48,9 +47,6 @@
     </td>
     <td>
       <a href="http://www.github.com/realjohnadex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=realjohnadex&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/realjohnadex"><img alt="Adex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realjohnadex&langs_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true&bg_color=1d2a3a"/></a>
     </td>
  </tr>
 </table>

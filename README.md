@@ -42,16 +42,13 @@
  
 <table>
   <tr>
-    <td>
+    <td colspan=2>
       <a href="https://github.com/realjohnadex"><img alt="Adex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realjohnadex&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
-    <td>
+    <td colspan=2>
       <a href="http://www.github.com/realjohnadex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=realjohnadex&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
  </tr>
-</table>
-	
-<table border="1" width="100%">
   <tr>
    <td>
       <p align="center">
@@ -75,6 +72,14 @@
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
         </a>
         <p align="center">HTML5</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask.svg" width="36" height="36" alt="Flask" />
+        </a>
+        <p align="center">Flask</p>
       </p>
     </td>
   </tr>

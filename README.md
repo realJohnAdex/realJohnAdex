@@ -113,7 +113,7 @@
     <td>      
       <p align="center">
         <a href="https://docs.djangoproject.com/en/4.1/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg" width="36" height="36" alt="Django" />
         </a>
         <p align="center">Django</p>
       </p>
@@ -123,7 +123,7 @@
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
       </a>
-        <p align="center">Django</p>
+        <p align="center">NodeJS</p>
       </p>
     </td>
     <td>           
@@ -136,10 +136,10 @@
     </td>
     <td>
       <p align="center">
-        <a href="#" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/#-colored.svg" width="36" height="36" alt="#" />
+        <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="sass" />
       </a>
-        <p align="center">#</p>
+        <p align="center">SASS</p>
       </p>
     </td>
   </tr>

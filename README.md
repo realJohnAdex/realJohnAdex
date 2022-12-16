@@ -9,7 +9,7 @@
 	    </a>
       <p>
         <h3>Salut 👋🏾</h3>
-        😜 &nbsp;I want to make the world better with code
+        😜 &nbsp;I am making the world better with code
         <br/>
         🌱 &nbsp;I love contributing to Opensource Projects
         <br/>
@@ -43,7 +43,7 @@
 <table>
   <tr>
     <td colspan=2>
-      <a href="https://github.com/realjohnadex"><img alt="Adex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realjohnadex&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=1d2a3a" /></a>
+      <a href="https://github.com/realjohnadex"><img alt="Adex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realjohnadex&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td colspan=2>
       <a href="http://www.github.com/realjohnadex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=realjohnadex&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

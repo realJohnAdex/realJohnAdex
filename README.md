@@ -152,6 +152,7 @@
 <p align="center">
   <a href = "https://www.linkedin.com/in/realjohnadex"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/realjohnadex"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://realjohnadex.medium.com"><img src="https://img.icons8.com/color-glass/48/null/medium-logo.png"/></a>
 </p>
 
 <!---

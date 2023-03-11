@@ -21,13 +21,6 @@
 		<br />
       </p>
   </div>
-  <div style="background-color: #f1f1f1; text-align: center; padding: 20px;">
-    <h2>Language Statistics</h2>
-	  <p>
-      <a href="https://github.com/realjohnadex"><img alt="Adex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realjohnadex&langs_count=8&count_private=true&theme=transparent&hide_border=true&bg_color=1d2a3a"/></a>
-       </p>
-  </div>
-  
 <!--   <div style="background-color: #f1f1f1; text-align: center; padding: 20px;">
     <h2>Item 3</h2>
     <p>Some text here...</p>
